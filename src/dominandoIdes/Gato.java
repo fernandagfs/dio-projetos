@@ -1,3 +1,5 @@
+package dominandoIdes;
+
 public class Gato {
     private String nome;
     private String cor;
@@ -39,7 +41,7 @@ public class Gato {
 
     @Override
     public String toString() {
-        return "Gato{" +
+        return "dominandoIdes.Gato{" +
                 "nome='" + nome + '\'' +
                 ", cor='" + cor + '\'' +
                 ", idade=" + idade +

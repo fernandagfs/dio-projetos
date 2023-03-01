@@ -1,3 +1,7 @@
+package dominandoIdes;
+
+import dominandoIdes.Gato;
+
 public class PrincipalGato {
 
 
